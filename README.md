@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/arthurbs17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurbs17&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbs17&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurbs17&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbs17&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   
  <div style="display: inline_block"><br>
