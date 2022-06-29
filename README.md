@@ -1,11 +1,13 @@
 ## Oi, me chamo Arthur Sarmento! 😊
 
-- 🔭 Atualmente trabalho como desenvolvedor back-end
-- 🌱 Minha stack: NodeJs, Express, Python, Flask, Django, Postgres, Sqlalchemy
+<ul>
+  <li> 💼 Desenvolvedor Back-end | Loomi </li>
+  <li>📍 PE - Brasil. </li>
+  <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. E tenho me especializado na linguagem Javascript/Typescript, bem com Python/Django </li>
+</ul>
 
 <div>
   <a href="https://github.com/arthurbs17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurbs17&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbs17&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   
