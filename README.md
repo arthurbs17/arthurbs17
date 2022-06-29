@@ -1,7 +1,7 @@
 ## Oi, me chamo Arthur Sarmento! 😊
 
-- 🔭 Atualmente trabalho com desenvolvimento front-end
-- 🌱 Estou estudando back-end, mas precisamente Python, Flask, Postgres, Sqlalchemy
+- 🔭 Atualmente trabalho como desenvolvedor back-end
+- 🌱 Minha stack: NodeJs, Express, Python, Flask, Django, Postgres, Sqlalchemy
 
 <div>
   <a href="https://github.com/arthurbs17">
