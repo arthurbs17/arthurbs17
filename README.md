@@ -6,11 +6,6 @@
   <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. E tenho me especializado na linguagem Javascript/Typescript, bem com Python/Django </li>
 </ul>
 
-<div>
-  <a href="https://github.com/arthurbs17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbs17&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-  
  <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
