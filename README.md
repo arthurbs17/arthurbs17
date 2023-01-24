@@ -3,7 +3,7 @@
 <ul>
   <li> 💼 Desenvolvedor Back-end | Loomi </li>
   <li>📍 PE - Brasil. </li>
-  <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. E tenho me especializado na linguagem Javascript/Typescript, bem com Python/Django </li>
+  <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. E tenho me especializado na linguagem Javascript/Typescript e Python </li>
 </ul>
 
  <div style="display: inline_block"><br>
